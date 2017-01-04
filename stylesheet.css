@@ -7,13 +7,14 @@ body{
   text-align: center;
 }
 h1{
-  padding-top: 20px;
+  padding-top: 10px;
   padding-left: auto;
   padding-right: auto;
   padding-bottom: 20px;
   border-bottom-width: 3px;
   border-bottom-style: double;
-  margin-top: 50px;
+  font-family: 'Allura', cursive, sans-serif;
+  font-size: 74px;
 }
 nav{
   padding-top: 10px;
@@ -28,4 +29,19 @@ nav{
   border-right-width: 3px;
   border-radius: 0 0 10px 10px;
   margin-bottom: 50px;
+}
+h3{
+  padding: 10px 15px 10px 5px;
+  text-align: left;
+  text-decoration: underline;
+}
+#bio{
+  margin-left: 20%;
+  margin-right: 20%;
+  border-width: 3px;
+  border-style: double;
+  border-radius: 10px 10px 10px 10px;
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-bottom: 10px;
 }
